@@ -1,0 +1,18 @@
+{
+    "potionName": "HelloGems",
+    "Value": 11,
+    "effects": [
+        {
+            "name": "one",
+            "desc": 1
+        },
+        {
+            "name": "two",
+            "desc": 2
+        },
+        {
+            "name": "three",
+            "desc": 3
+        }
+    ]
+}
